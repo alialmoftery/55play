@@ -1,6 +1,6 @@
-token= NTM1NjQxMTk5NDUzOTI5NDg3.DyLQEw.4TNKdnVD4hLgkAY9GArnntDdWx0
-owner= 525789275162279936
-prefix= 2
-game= welcome...💔
+token= NTM5NTUxODI3ODQzMjE5NDc2.DzK5pQ.tGogiYSS5urW3p-FZEOeN2DpgVo
+owner= 314866432418643969
+prefix= 5
+game= 5play
 stayinchannel=true 
 songinstatus=false 
